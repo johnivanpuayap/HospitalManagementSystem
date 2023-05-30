@@ -1,6 +1,6 @@
 # Hospital Management System
 
-This is an academic project for CSIT2268, a Hospital Management System built on PHP.
+This is an academic project for CSIT2268, a Hospital Management System built on Java.
 
 ## Features
 
