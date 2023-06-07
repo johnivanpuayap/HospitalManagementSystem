@@ -14,7 +14,6 @@ This is an academic project for CSIT228, a Hospital Management System built on J
 ## Technologies Used
 - Java: The primary programming language used for developing the system.
 - MySQL: The database management system used to store data.
-- CSS: Used for styling and presentation of the website.
 - SHA256: Passwords are hashed using the SHA256 algorithm for enhanced security.
 
 ## Next Steps for Improvement
